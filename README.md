@@ -1,6 +1,12 @@
-# Hi there, I'm [Your Name] 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm glad you're here.
+<h3>Hello You Guys, I'm Quan 👋</h3>
+<span>Fullstack Web Developer</span>
+<h4>Welcome to my GitHub profile! I'm glad you're here.</h4>
+
+</div>
+
+
 
 ## About Me
 
@@ -8,10 +14,9 @@ I'm a passionate developer with a keen interest in web development, particularly
 
 ## Social Links
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Facebook](https://www.facebook.com/your-profile)
-- [Instagram](https://www.instagram.com/your-profile)
+- [Twitter](https://x.com/quandh02)
+- [Facebook](https://www.facebook.com/quandh.02)
+- [Instagram](https://www.instagram.com/quandh.02)
 - [Personal Website](https://yourwebsite.com)
 
 ## Skills
@@ -21,11 +26,10 @@ I'm a passionate developer with a keen interest in web development, particularly
   - CSS
   - JavaScript
   - PHP
-  - Python
 
 - **Frameworks and Libraries:**
   - Laravel
-  - Django
+  - ReactJs
 
 - **Tools and Technologies:**
   - Git & GitHub
