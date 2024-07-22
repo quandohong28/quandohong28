@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a passionate developer with a keen interest in web development, particularly using Laravel and Blade. I enjoy creating efficient and user-friendly applications, and I'm constantly learning and evolving my skills.
+I'm a passionate developer with a keen interest in web development, particularly using Laravel and ReactJs. I enjoy creating efficient and user-friendly applications, and I'm constantly learning and evolving my skills.
 
 ## Social Links
 
@@ -26,15 +26,19 @@ I'm a passionate developer with a keen interest in web development, particularly
   - CSS
   - JavaScript
   - PHP
+  - Java
 
 - **Frameworks and Libraries:**
   - Laravel
   - ReactJs
+  - Angular
+  - ExpressJs
 
 - **Tools and Technologies:**
   - Git & GitHub
   - MySQL
   - Docker
+  - Ubuntu
 
 - **Other Skills:**
   - Responsive Web Design
