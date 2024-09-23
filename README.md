@@ -12,6 +12,8 @@
 
 I'm a passionate developer with a keen interest in web development, particularly using Laravel and ReactJs. I enjoy creating efficient and user-friendly applications, and I'm constantly learning and evolving my skills.
 
+[Visit](https://quandohong28.github.io/pp_portfolio/) My Portfolio Page
+
 ## Social Links
 
 - [Twitter](https://x.com/quandh02)
