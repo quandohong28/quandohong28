@@ -21,6 +21,7 @@ My hobbies: 🎮 - 📖 - ⚽️ - 🍿
 - [Twitter](https://x.com/quandh02)
 - [Facebook](https://www.facebook.com/quandh.02)
 - [Instagram](https://www.instagram.com/quandh.02)
+- [NPM](https://www.npmjs.com/~quandohong28)
 - [Personal Website](https://yourwebsite.com)
 
 ## Skills
@@ -40,7 +41,6 @@ My hobbies: 🎮 - 📖 - ⚽️ - 🍿
   - ExpressJs
   - Bootstrap 5
   - Tailwindcss
-  - 
 
 - **Tools and Technologies:**
   - VSCode
@@ -49,7 +49,6 @@ My hobbies: 🎮 - 📖 - ⚽️ - 🍿
   - Docker
   - Ubuntu
   - Postman
-  - 
 
 - **Other Skills:**
   - Responsive Web Design
