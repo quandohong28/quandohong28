@@ -41,6 +41,7 @@ My hobbies: 🎮 - 📖 - ⚽️ - 🍿
   - ExpressJs
   - Bootstrap 5
   - Tailwindcss
+  - Wordpress
 
 - **Tools and Technologies:**
   - VSCode
