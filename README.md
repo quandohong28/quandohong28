@@ -3,7 +3,7 @@
 <h3>Hello You Guys, I'm Quan 👋</h3>
 <span>Fullstack Web Developer</span>
 <h4>Welcome to my GitHub profile! I'm glad you're here.</h4>
-<h1>🇻🇳🏴󠁧󠁢󠁥󠁮󠁧󠁿🇯🇵🇨🇳</h3>
+<h1>🇻🇳🏴󠁧󠁢󠁥󠁮󠁧󠁿🇯🇵</h3>
 </div>
 
 
@@ -18,11 +18,11 @@ My hobbies: 🎮 - 📖 - ⚽️ - 🍿
 
 ## Social Links
 
-- [Twitter](https://x.com/quandh02)
-- [Facebook](https://www.facebook.com/quandh.02)
-- [Instagram](https://www.instagram.com/quandh.02)
+- [Twitter](https://x.com/quandohong28)
+- [Facebook](https://www.facebook.com/quandohong28)
+- [Instagram](https://www.instagram.com/quandohong28)
 - [NPM](https://www.npmjs.com/~quandohong28)
-- [Personal Website](https://yourwebsite.com)
+- [Portfolio](https://quandohong28.me)
 
 ## Skills
 
@@ -30,30 +30,30 @@ My hobbies: 🎮 - 📖 - ⚽️ - 🍿
   - HTML
   - CSS
   - JavaScript
-  - PHP
-  - Java
+  - PHP ⭐️⭐️⭐️⭐️⭐️
 
 - **Frameworks and Libraries:**
-  - Laravel
-  - ReactJs
-  - Angular
-  - NodeJs
+  - Laravel ⭐️⭐️⭐️⭐️⭐️
+  - ReactJs ⭐️⭐️⭐️⭐️⭐️
   - ExpressJs
-  - Bootstrap 5
-  - Tailwindcss
+  - Bootstrap
+  - Tailwindcss ⭐️⭐️⭐️⭐️⭐️
   - Wordpress
 
 - **Tools and Technologies:**
   - VSCode
   - Git & GitHub
-  - MySQL
   - Docker
   - Ubuntu
   - Postman
+
+- **Database:**
+  - MySQL
 
 - **Other Skills:**
   - Responsive Web Design
   - RESTful API Development
   - Object-Oriented Programming (OOP)
+  - DevOps (Docker + Yaml + Github CI/CD + Linux)
 
 Thank you for visiting my profile! Feel free to connect with me on social media or check out my repositories below. Let's create something amazing together!
